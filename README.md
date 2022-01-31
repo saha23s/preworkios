@@ -1,4 +1,4 @@
-# prework-sulagna
+
 # Pre-work - *Prework-Sulagna*
 
 **Prework-Sulagna** is a tip calculator application for iOS.
